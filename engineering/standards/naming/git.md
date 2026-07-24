@@ -4,6 +4,12 @@
 
 Use branch names to describe the work being carried out.
 
+### Structure
+
+Use the following format:
+
+`<type>/<scope>`
+
 ### `feature/`
 
 Use for introducing or enhancing behaviour.
@@ -100,3 +106,4 @@ Use the following format:
 
 - Use lower case.
 - Do not end the description with a full stop.
+- Include the target file or directory when it helps identify the change.
