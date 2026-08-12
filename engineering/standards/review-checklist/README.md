@@ -8,6 +8,16 @@ Each checklist focuses on a single review perspective and explains why it matter
 
 Update these checklists whenever a new lesson can be generalised into a future review check.
 
+When writing PR review comments, use the following prefixes where appropriate:
+
+| Prefix     | Meaning              | Use                                                    |
+| ---------- | -------------------- | ------------------------------------------------------ |
+| `ASK`      | Ask                  | Questions, clarification, or requests for confirmation |
+| `IMO`      | In My Opinion        | Personal opinions or suggestions                       |
+| `NIT`      | Nitpick              | Minor, non-blocking issues or improvements             |
+| `BLOCKING` | Blocking             | Changes required before approval                       |
+| `FYI`      | For Your Information | Information shared for reference                       |
+
 ## Template
 
 ````markdown
@@ -48,3 +58,4 @@ Update these checklists whenever a new lesson can be generalised into a future r
 ## Notes (optional)
 
 <Additional considerations, caveats, or best practices.>
+````
