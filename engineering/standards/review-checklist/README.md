@@ -8,6 +8,8 @@ Each checklist focuses on a single review perspective and explains why it matter
 
 Update these checklists whenever a new lesson can be generalised into a future review check.
 
+- [ ] Ommitted Deployment Procedure Step
+
 When writing PR review comments, use the following prefixes where appropriate:
 
 | Prefix     | Meaning              | Use                                                    |
