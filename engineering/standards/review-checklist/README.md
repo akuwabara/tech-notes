@@ -10,6 +10,7 @@ Update these checklists whenever a new lesson can be generalised into a future r
 
 - [ ] Local Commit Omitted Before Release
 - [ ] Ommitted Deployment Procedure Step
+- [ ] Review Replies Left as Pending
 
 When writing PR review comments, use the following prefixes where appropriate:
 
