@@ -8,6 +8,7 @@ Each checklist focuses on a single review perspective and explains why it matter
 
 Update these checklists whenever a new lesson can be generalised into a future review check.
 
+- [ ] Backward Compatibility
 - [ ] Local Commit Omitted Before Release
 - [ ] Ommitted Deployment Procedure Step
 - [ ] Review Replies Left as Pending
